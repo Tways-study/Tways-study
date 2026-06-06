@@ -11,8 +11,8 @@ My development philosophy centers on building highly interactive, scalable, and 
 I leverage a modern, performance-driven tech stack to build robust digital solutions:
 
 *   **Languages:** TypeScript, JavaScript (ES6+), Python
-*   **Frontend:** Next.js (App Router, SSR/SSG), React, Semantic HTML5, Responsive CSS
-*   **Backend and Database:** Supabase (PostgreSQL), Relational Database Design, Real-time Data Streams
+*   **Frontend:** Next.js, React, Semantic HTML5, Responsive CSS
+*   **Backend and Database:** Supabase (PostgreSQL), Relational Database Design, Firebase
 *   **Validation and Security:** Zod (Schema Validation, Type-safe API routes), Secure Auth Workflows
 
 ---
