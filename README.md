@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Theodore "Tways" Navarro 👋
 
-<!--
-**Tways-study/Tways-study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year Bachelor of Science in Information Technology (BSIT) student and an aspiring **Full-Stack Web Developer** based in the Philippines. I bridge the gap between clean, intuitive UI design and robust backend logic, ensuring every application functions flawlessly under the hood while delivering an exceptional user experience.
 
-Here are some ideas to get you started:
+My development philosophy centers on building **highly interactive, scalable, and type-safe ecosystems**. I enjoy solving complex problems, architecting secure data flows, and automating workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+I leverage a modern, performance-driven tech stack to build robust digital solutions:
+
+*   **Languages:** TypeScript, JavaScript (ES6+), Python
+*   **Frontend:** Next.js (App Router, SSR/SSG), React, Semantic HTML5, Responsive CSS
+*   **Backend & Database:** Supabase (PostgreSQL), Relational Database Design, Real-time Data Streams
+*   **Validation & Security:** Zod (Schema Validation, Type-safe API routes), Secure Auth Workflows
+
+---
+
+## 🚀 Active Projects
+
+### 🏥 Pharmatrack
+**A Comprehensive University Attendance System**
+*   **Role:** Full-Stack Developer
+*   **Stack:** Next.js, TypeScript, Supabase, Zod
+*   **Key Focus:** Architecting a secure backend database, implementing strict runtime validation with Zod schemas, and building a responsive dashboard to ensure reliable, real-time attendance tracking.
+
+### 🔄 UniLend
+**Peer-to-Peer University Item-Lending Platform**
+*   **Role:** Full-Stack Developer
+*   **Stack:** HTML5, CSS3, JavaScript, Supabase, Zod
+*   **Key Focus:** Designing a lightweight, highly responsive client-side interface powered by a secure Supabase backend, using Zod to enforce type-safe request handling for secure user-to-user transactions.
+
+---
+
+## 📈 What I'm Focused On Right Now
+*   Deepening my expertise in Full-Stack architecture and serverless workflows.
+*   Enforcing strict data integrity and type safety across entire application lifecycles.
+*   Collaborating on innovative web solutions and open-source projects.
+
+---
+
+## 📫 Let's Connect
+
+*   **Portfolio:** [tways-study.github.io/my-web-portfolio](https://tways-study.github.io/my-web-portfolio/)
+*   **Email:** twicenavarro232@gmail.com
+
+Let's build something exceptional together! 🚀
