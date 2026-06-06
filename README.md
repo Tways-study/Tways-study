@@ -1,4 +1,4 @@
-# Theodore "Tways" Navarro
+# Theodore Samuel "Tways" Navarro
 
 I am a second-year Bachelor of Science in Information Technology (BSIT) student and an aspiring Full-Stack Web Developer based in the Philippines. I bridge the gap between clean, intuitive UI design and robust backend logic, ensuring every application functions flawlessly under the hood while delivering an exceptional user experience.
 
