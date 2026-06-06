@@ -1,31 +1,31 @@
-# Hi there, I'm Theodore "Tways" Navarro 
+# Theodore "Tways" Navarro
 
-I am a 2nd-year Bachelor of Science in Information Technology (BSIT) student and an aspiring **Full-Stack Web Developer** based in the Philippines. I bridge the gap between clean, intuitive UI design and robust backend logic, ensuring every application functions flawlessly under the hood while delivering an exceptional user experience.
+I am a second-year Bachelor of Science in Information Technology (BSIT) student and an aspiring Full-Stack Web Developer based in the Philippines. I bridge the gap between clean, intuitive UI design and robust backend logic, ensuring every application functions flawlessly under the hood while delivering an exceptional user experience.
 
-My development philosophy centers on building **highly interactive, scalable, and type-safe ecosystems**. I enjoy solving complex problems, architecting secure data flows, and automating workflows.
+My development philosophy centers on building highly interactive, scalable, and type-safe ecosystems. I enjoy solving complex problems, architecting secure data flows, and automating workflows.
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## Tech Stack and Capabilities
 
 I leverage a modern, performance-driven tech stack to build robust digital solutions:
 
 *   **Languages:** TypeScript, JavaScript (ES6+), Python
 *   **Frontend:** Next.js (App Router, SSR/SSG), React, Semantic HTML5, Responsive CSS
-*   **Backend & Database:** Supabase (PostgreSQL), Relational Database Design, Real-time Data Streams
-*   **Validation & Security:** Zod (Schema Validation, Type-safe API routes), Secure Auth Workflows
+*   **Backend and Database:** Supabase (PostgreSQL), Relational Database Design, Real-time Data Streams
+*   **Validation and Security:** Zod (Schema Validation, Type-safe API routes), Secure Auth Workflows
 
 ---
 
-## 🚀 Active Projects
+## Active Projects
 
-### 🏥 Pharmatrack
+### Pharmatrack
 **A Comprehensive University Attendance System**
 *   **Role:** Full-Stack Developer
 *   **Stack:** Next.js, TypeScript, Supabase, Zod
 *   **Key Focus:** Architecting a secure backend database, implementing strict runtime validation with Zod schemas, and building a responsive dashboard to ensure reliable, real-time attendance tracking.
 
-### 🔄 UniLend
+### UniLend
 **Peer-to-Peer University Item-Lending Platform**
 *   **Role:** Full-Stack Developer
 *   **Stack:** HTML5, CSS3, JavaScript, Supabase, Zod
@@ -33,16 +33,17 @@ I leverage a modern, performance-driven tech stack to build robust digital solut
 
 ---
 
-## 📈 What I'm Focused On Right Now
-*   Deepening my expertise in Full-Stack architecture and serverless workflows.
+## Current Focus Areas
+
+*   Deepening expertise in Full-Stack architecture and serverless workflows.
 *   Enforcing strict data integrity and type safety across entire application lifecycles.
 *   Collaborating on innovative web solutions and open-source projects.
 
 ---
 
-## 📫 Let's Connect
+## Contact and Links
 
 *   **Portfolio:** [tways-study.github.io/my-web-portfolio](https://tways-study.github.io/my-web-portfolio/)
 *   **Email:** twicenavarro232@gmail.com
 
-Let's build something exceptional together! 🚀
+Let's build something exceptional together.
