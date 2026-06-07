@@ -43,7 +43,7 @@ I leverage a modern, performance-driven tech stack to build robust digital solut
 
 ## Contact and Links
 
-*   **Portfolio:** [tways-study.github.io/my-web-portfolio](https://tways-study.github.io/my-web-portfolio/)
+*   **Portfolio:** [https://tways-study.github.io/tways.dev/](https://tways-study.github.io/my-web-portfolio/)
 *   **Email:** twicenavarro232@gmail.com
 
 Let's build something exceptional together.
