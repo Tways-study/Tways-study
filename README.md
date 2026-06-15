@@ -19,6 +19,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tways-study&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # 📬 Connect With Me
 
-* 🌐 **Portfolio:** [tways.dev](https://tways-study.github.io/tways.dev/)
+* 🌐 **Portfolio:** [tways.dev](https://tways-dev.vercel.app/)
 * 📧 **Email:** [twicenavarro232@gmail.com](mailto:twicenavarro232@gmail.com)
 
