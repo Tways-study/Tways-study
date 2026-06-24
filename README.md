@@ -1,4 +1,4 @@
-#About Me:
+* About Me:*
 **Currently building:** Pharmatrack (university attendance tracking system) and UniLend (peer-to-peer item lending platform).
 
 **Collaboration interests:** Innovative web applications and impactful open-source initiatives.
