@@ -1,5 +1,5 @@
 # About me:
-**Currently building:** Pharmatrack (university attendance tracking system) and UniLend (peer-to-peer item lending platform).
+**Currently building:** Scalable full-stack applications and exploring AI-driven/agentic development workflows.
 
 **Collaboration interests:** Innovative web applications and impactful open-source initiatives.
 
