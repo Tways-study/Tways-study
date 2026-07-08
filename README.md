@@ -1,4 +1,4 @@
-# About me:
+# Theodore Samuel M. Navarro:
 **Currently building:** Scalable full-stack applications and exploring AI-driven/agentic development workflows.
 
 **Collaboration interests:** Innovative web applications and impactful open-source initiatives.
