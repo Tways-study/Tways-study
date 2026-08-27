@@ -20,5 +20,5 @@
 # Connect With Me
 
 * **Portfolio:** [tways.dev](https://webportfolio-two-phi.vercel.app/)
-* **Email:** [twicenavarro232@gmail.com](mailto:twicenavarro232@gmail.com)
+* **Email:** [twicenavarro23@gmail.com](mailto:twicenavarro232@gmail.com)
 
