@@ -1,101 +1,25 @@
-<!--
-  SETUP
-  1. Create a public repo named exactly like your GitHub username. Its README.md becomes your profile.
-  2. Put this README.md at the repo root and the three SVGs in /assets.
-  3. Find-and-replace GH_USER below with your username (used by the two stats cards).
-  4. Live coding stats: add the .github/workflows folder, then add two repo secrets,
-     WAKATIME_API_KEY and GH_TOKEN (see the workflow file), and run the "Waka Readme" workflow once
-     from the Actions tab. The action fills in the block between the two waka comment markers below.
+# Theodore Samuel M. Navarro
+**Currently building:** Scalable full-stack applications and exploring AI-driven/agentic development workflows.
 
-  WHY SVGs: GitHub strips CSS/JS from Markdown, but it renders SVG files loaded through <img>.
-  That is the only way to get custom layout and typography on a profile, so the visual identity
-  lives in /assets and the README just arranges it.
--->
+**Collaboration interests:** Innovative web applications and impactful open-source initiatives.
 
-<div align="center">
+**Areas of focus:** Advanced patterns for strict data integrity and end-to-end type safety across application lifecycles.
 
-<img src="assets/header.svg" alt="Prescription label: Rx, Tways Navarro. Sig: plan with the agent, review every diff, ship, then learn what it did." width="100%">
+**Active learning:** Scalable full-stack architecture and serverless workflow optimization.
 
-<a href="https://webportfolio-two-phi.vercel.app">
-  <img src="https://img.shields.io/badge/portfolio-visit-0E7A5A?style=for-the-badge&labelColor=12303A&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+**Core expertise:** Full-stack web systems with strict type safety, data validation, and scalable architecture.
 
-</div>
+**North star:** Architecting production-grade systems where pixel-perfect UI and bulletproof backend logic converge seamlessly ensuring complex applications perform reliably at scale.
 
-<br>
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tways-study&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Tways-study&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tways-study&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Connect With Me
 
-## About
+* **Portfolio:** [tways.dev](https://webportfolio-two-phi.vercel.app/)
+* **Email:** [twicenavarro23@gmail.com](mailto:twicenavarro232@gmail.com)
 
-I'm a 3rd-year IT student at the University of San Agustin, building real systems for campuses, local government and small businesses. I build mostly through Claude Code and agentic workflows, and I'm using every project to learn what those tools are doing underneath: data structures, databases, auth, and the tradeoffs behind each pattern.
 
-```ts
-// Modeled on a prescription: what I take on, how I work, and what I'm working on.
-const tways = {
-  name: "Theodore Samuel M. Navarro",
-  goesBy: ["Tways", "Twice"],
-  base: "Iloilo City, Philippines",
-
-  roles: [
-    "Lead developer, capstone team",
-    "VP for External Affairs, Information Technology Student Association (ITSA)",
-    "Founder, AskTwice (freelance academic services)",
-  ],
-
-  // Nothing ships without a second check.
-  workflow: ["plan with the agent", "delegate", "review every diff", "ship", "learn what it did"],
-
-  stack: ["Next.js", "TypeScript", "Supabase", "Tailwind CSS", "Claude Code", "MCP"],
-  learning: ["data structures", "SQL and RLS", "agent loops", "system design"],
-  certifications: ["Google Prompting Essentials", "Google AI"],
-} as const;
-```
-
-<br>
-
-<div align="center">
-<img src="assets/formulary.svg" alt="Formulary: Next.js, TypeScript, React, Tailwind CSS, Supabase; Claude Code, MCP servers, Anthropic API, Vercel AI SDK, Vercel; Zod, RLS, Git and CI, ESLint, Docker." width="100%">
-</div>
-
-<br>
-
-## Dispensary
-
-Selected work. Each one solves a specific problem for a specific set of people.
-
-| Project | What it does |
-|---|---|
-| **ClauseGuard** | Flags risky clauses in SaaS contracts (capstone platform) |
-| **FaciliTrak** | AI-assisted facility condition reporting (capstone) |
-| **PASA** | Multi-agent permit compliance checker for local government units |
-| **SENTRO** | Integrated management system for municipalities |
-| **UniLend** | QR-based reservations for university equipment and venues |
-| **Baylo Agustino** | Campus trading and bartering PWA for University of San Agustin |
-| **MedMinder** | Inventory and expiry tracking for medicine stock |
-| **Spot** | Attendance PWA for my IT-3C class |
-
-<!-- Link each project name to its repo or live demo once it is public: **[ClauseGuard](https://github.com/GH_USER/clauseguard)** -->
-
-<br>
-
-## Dispensing log
-
-Live coding metrics, refreshed twice a day by a GitHub Action. It shows how much of my time goes to each language and editor, including Claude Code.
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br>
-
-## Chart
-
-<div align="center">
-
-<!-- Third-party hosted cards. They occasionally rate-limit; if one shows an error, refresh later. -->
-<img height="170" src="https://streak-stats.demolab.com?user=GH_USER&background=FBFCFA&ring=0E7A5A&fire=C4720E&currStreakNum=12303A&currStreakLabel=0E7A5A&sideNums=12303A&sideLabels=4A6670&dates=4A6670&border=C4720E&stroke=C4720E44" alt="GitHub streak">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH_USER&layout=compact&custom_title=Most%20prescribed%20languages&bg_color=FBFCFA&title_color=0E7A5A&text_color=12303A&border_color=C4720E" alt="Top languages">
-
-<br><br>
-
-<img src="assets/footer.svg" alt="Keep out of reach of production without a code review." width="100%">
-
-</div>
